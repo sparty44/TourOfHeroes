@@ -1,3 +1,8 @@
+## Purpose
+
+This project was used to help this account's owner learn and improve their Typescript skillset.
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
